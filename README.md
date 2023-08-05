@@ -1,4 +1,3 @@
-## Linear regression using gradient descent on Math Students Dataset
 Link to dataset: https://www.kaggle.com/datasets/janiobachmann/math-students
 
 Part 1 is implementing gradient descent without using sklearn
